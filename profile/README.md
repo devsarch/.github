@@ -1,10 +1,10 @@
-# DevsArch LLC
+# Devsarch LLC
 
-Welcome to DevsArch GitHub Organization!
+Welcome to Devsarch GitHub Organization!
 
-## About DevsArch
+## About Devsarch
 
-DevsArch is a software company in its early stages, founded by a team of dedicated professionals with a strong vision for delivering exceptional bespoke software solutions. We are committed to establishing ourselves as a reliable and innovative partner for our clients' software needs.
+Devsarch is a software company in its early stages, founded by a team of dedicated professionals with a strong vision for delivering exceptional bespoke software solutions. We are committed to establishing ourselves as a reliable and innovative partner for our clients' software needs.
 
 ### Mission
 
@@ -16,7 +16,7 @@ To become a trusted technology partner, known for our commitment to excellence, 
 
 ## Services
 
-At DevsArch, we provide the following services:
+At Devsarch, we provide the following services:
 
 - Custom Software Development
 - Web Application Development
